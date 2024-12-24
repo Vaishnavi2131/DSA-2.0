@@ -1,0 +1,8 @@
+Array 
+Fixed size
+primitive data types can be stored.
+
+Arraylist
+dyanamic size
+non primitive data type.
+
